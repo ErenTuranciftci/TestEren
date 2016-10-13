@@ -16,7 +16,12 @@ public class ErenTest {
      */
     public static void main(String[] args) {
         int i = 0;
+
+        
+        boolean tt = false;
+
         int u = 3;
+
     }
     
 }
